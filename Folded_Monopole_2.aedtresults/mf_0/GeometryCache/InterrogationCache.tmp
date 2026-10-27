@@ -108,8 +108,8 @@ $begin 'InterrogationCache'
 				HadWarnings=false
 			$end 'CheckStatus'
 			$begin 'BoundingBox'
-				Low[3: -102.86576147540983, -122.86576147540984, 4.4408920985006262e-14]
-				High[3: 142.86576147540981, 204.77626912568306, 322.64203060109293]
+				Low[3: -102.86576147540983, -122.86576147540984, 0]
+				High[3: 142.86576147540981, 204.77626912568306, 317.64203060109287]
 				Exact=true
 				Valid=true
 			$end 'BoundingBox'

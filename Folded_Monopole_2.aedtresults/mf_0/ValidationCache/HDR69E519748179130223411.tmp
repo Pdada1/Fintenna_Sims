@@ -1,7 +1,2 @@
 $begin 'ValidationCache'
-	$begin 'OneValidationResult'
-		Variation='AirBox_X=\'0.24573152295081965meter\' AirBox_Y=\'0.32764203060109287meter\' AirBox_Z=\'0.32764203060109287meter\' Frequency=\'915MHz\' Gplane_X=\'40mm\' Gplane_Y=\'70.499738000000008mm\' Gplane_Z=\'10mm\' Horizontal_XSize=\'5mm\' Horizontal_YSize=\'6.5499738000000001cm\' Horizontal_ZSize=\'5mm\' Probe_Dia=\'0.47999999999999998mm\' Probe_Dielectric_Dia=\'1.52mm\' Probe_Y=\'22.122155800000002mm\' Shield_Dia=\'1.98mm\' Vertical_Element_X_Size=\'5mm\' Vertical_Element_Y_Size=\'5mm\' Vertical_Element_Z_Size=\'13.695259999999999mm\' Wavelength=\'0.32764203060109287meter\''
-		Status=true
-		FileName='VI2DDF8196179311374839.tmp'
-	$end 'OneValidationResult'
 $end 'ValidationCache'
